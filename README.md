@@ -1,5 +1,7 @@
 # USD/ZAR Market Relationship Analysis
 
+![USD/ZAR Tableau Dashboard](dashboard.png)
+
 ## Project Overview
 
 This project explores whether historical movements in the broad US dollar index, gold, and the S&P 500 provide useful context for the direction of USD/ZAR over approximately a one-month horizon.
