@@ -1,6 +1,6 @@
 # USD/ZAR Market Relationship Analysis
 
-![USD/ZAR Tableau Dashboard](dashboard.png)
+![USD/ZAR Tableau Dashboard](Dashboard.png)
 
 ## Project Overview
 
